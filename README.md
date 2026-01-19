@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hello, I'm Shaquille
+<a href="https://www.linkedin.com/in/shaquille-kerr-3b833354/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**Kerrshaquille/kerrshaquille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm transitioning into IT and cybersecurity with hands-on experience in help desk support and technical troubleshooting. My goal is to build strong foundational IT skills before moving into security operations.
 
-Here are some ideas to get you started:
+## Objective
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus is on developing practical IT support skills through home lab projects and real-world scenarios. I'm working toward a position as a Help Desk Technician or Desktop Support Specialist, with the long-term goal of becoming a SOC Tier 1 Analyst.
+
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Active Directory User and Group Management    | <a href="https://github.com/yourusername/active-directory-lab">Active Directory Home Lab</a>|
+| Windows Server Administration                 | <a href="https://github.com/yourusername/active-directory-lab">Active Directory Home Lab</a>|
+| Help Desk Ticket Resolution                   | IT Support Documentation|
+| System Imaging and Deployment                 | IT Support Documentation|
+| Remote Desktop Support                        | IT Support Documentation|
+| Troubleshooting Hardware and Software Issues  | IT Support Documentation|
+
+## Tools
+
+### Operating Systems
+<div>
+    <img src="https://img.shields.io/badge/-Windows_Server-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_10/11-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+</div>
+
+### Virtualization
+<div>
+    <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+</div>
+
+### IT Support Tools
+<div>
+    <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Remote_Desktop-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
+
+## Projects
+- Active Directory Home Lab
+- IT Help Desk Support Documentation
+- Windows Server 2022 Configuration
