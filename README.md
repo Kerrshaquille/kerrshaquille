@@ -11,12 +11,12 @@ My focus is on developing practical IT support skills through home lab projects 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Active Directory User and Group Management    | <a href="https://github.com/Kerrshaquille/IT-Help-Desk-Home-Lab">IT Help Desk Home Lab</a>|
-| Windows Server Administration                 | <a href="https://github.com/Kerrshaquille/IT-Help-Desk-Home-Lab">IT Help Desk Home Lab</a>|
-| Help Desk Ticket Resolution                   | <a href="https://github.com/Kerrshaquille/IT-Help-Desk-Home-Lab">IT Help Desk Home Lab</a>|
-| System Imaging and Deployment                 | <a href="https://github.com/Kerrshaquille/IT-Help-Desk-Home-Lab">IT Help Desk Home Lab</a>|
-| Remote Desktop Support                        | <a href="https://github.com/Kerrshaquille/IT-Help-Desk-Home-Lab">IT Help Desk Home Lab</a>|
-| Troubleshooting Hardware and Software Issues  | <a href="https://github.com/Kerrshaquille/IT-Help-Desk-Home-Lab">IT Help Desk Home Lab</a>|
+| Active Directory User and Group Management    | <a href="https://github.com/Kerrshaquille/IT-Helpdesk-Lab">IT Helpdesk Lab</a>|
+| Windows Server Administration                 | <a href="https://github.com/Kerrshaquille/IT-Helpdesk-Lab">IT Helpdesk Lab</a>|
+| Help Desk Ticket Resolution                   | <a href="https://github.com/Kerrshaquille/IT-Helpdesk-Lab">IT Helpdesk Lab</a>|
+| System Imaging and Deployment                 | <a href="https://github.com/Kerrshaquille/IT-Helpdesk-Lab">IT Helpdesk Lab</a>|
+| Remote Desktop Support                        | <a href="https://github.com/Kerrshaquille/IT-Helpdesk-Lab">IT Helpdesk Lab</a>|
+| Troubleshooting Hardware and Software Issues  | <a href="https://github.com/Kerrshaquille/IT-Helpdesk-Lab">IT Helpdesk Lab</a>|
 
 ## Tools
 
@@ -43,4 +43,4 @@ My focus is on developing practical IT support skills through home lab projects 
 </div>
 
 ## Projects
-- <a href="https://github.com/Kerrshaquille/IT-Help-Desk-Home-Lab">IT Help Desk Home Lab</a>
+- <a href="https://github.com/Kerrshaquille/IT-Helpdesk-Lab">IT Helpdesk Lab</a>
