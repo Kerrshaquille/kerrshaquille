@@ -11,12 +11,12 @@ My focus is on developing practical IT support skills through home lab projects 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Active Directory User and Group Management    | <a href="https://github.com/yourusername/active-directory-lab">Active Directory Home Lab</a>|
-| Windows Server Administration                 | <a href="https://github.com/yourusername/active-directory-lab">Active Directory Home Lab</a>|
-| Help Desk Ticket Resolution                   | IT Support Documentation|
-| System Imaging and Deployment                 | IT Support Documentation|
-| Remote Desktop Support                        | IT Support Documentation|
-| Troubleshooting Hardware and Software Issues  | IT Support Documentation|
+| Active Directory User and Group Management    | <a href="https://github.com/Kerrshaquille/IT-Help-Desk-Home-Lab">IT Help Desk Home Lab</a>|
+| Windows Server Administration                 | <a href="https://github.com/Kerrshaquille/IT-Help-Desk-Home-Lab">IT Help Desk Home Lab</a>|
+| Help Desk Ticket Resolution                   | <a href="https://github.com/Kerrshaquille/IT-Help-Desk-Home-Lab">IT Help Desk Home Lab</a>|
+| System Imaging and Deployment                 | <a href="https://github.com/Kerrshaquille/IT-Help-Desk-Home-Lab">IT Help Desk Home Lab</a>|
+| Remote Desktop Support                        | <a href="https://github.com/Kerrshaquille/IT-Help-Desk-Home-Lab">IT Help Desk Home Lab</a>|
+| Troubleshooting Hardware and Software Issues  | <a href="https://github.com/Kerrshaquille/IT-Help-Desk-Home-Lab">IT Help Desk Home Lab</a>|
 
 ## Tools
 
@@ -43,6 +43,4 @@ My focus is on developing practical IT support skills through home lab projects 
 </div>
 
 ## Projects
-- Active Directory Home Lab
-- IT Help Desk Support Documentation
-- Windows Server 2022 Configuration
+- <a href="https://github.com/Kerrshaquille/IT-Help-Desk-Home-Lab">IT Help Desk Home Lab</a>
